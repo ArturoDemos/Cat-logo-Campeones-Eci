@@ -142,3 +142,7 @@ $("clearButton").onclick=()=>{
 };
 $("closeDialog").onclick=()=>$("productDialog").close();
 start();
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('./sw.js');
+};
+
