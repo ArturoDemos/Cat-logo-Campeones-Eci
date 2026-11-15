@@ -1,0 +1,422 @@
+[
+  {
+    "id": "94612301229",
+    "name": "iPhone 18 Pro 256GB Burdeos",
+    "family": "iPhone",
+    "modelCode": "MJRR4QL/A",
+    "ean": "0195951416007",
+    "price": 1439,
+    "status": "Novedad",
+    "details": "Pantalla 6,3\" Super Retina XDR / Chip A20 Pro / 256GB / Cámara Fusion 48MP"
+  },
+  {
+    "id": "94612301302",
+    "name": "iPhone 18 Pro 256GB Negro",
+    "family": "iPhone",
+    "modelCode": "MJRP4QL/A",
+    "ean": "0195951415987",
+    "price": 1439,
+    "status": "Novedad",
+    "details": "Pantalla 6,3\" Super Retina XDR / Chip A20 Pro / 256GB / Cámara Fusion 48MP"
+  },
+  {
+    "id": "94612301286",
+    "name": "iPhone 18 Pro 256GB Plata",
+    "family": "iPhone",
+    "modelCode": "MJRQ4QL/A",
+    "ean": "0195951415994",
+    "price": 1439,
+    "status": "Novedad",
+    "details": "Pantalla 6,3\" Super Retina XDR / Chip A20 Pro / 256GB / Cámara Fusion 48MP"
+  },
+  {
+    "id": "94612401144",
+    "name": "iPhone 18 Pro 512GB Burdeos",
+    "family": "iPhone",
+    "modelCode": "MJRW4QL/A",
+    "ean": "0195951416045",
+    "price": 1679,
+    "status": "Novedad",
+    "details": "Pantalla 6,3\" Super Retina XDR / Chip A20 Pro / 512GB / Cámara Fusion 48MP"
+  },
+  {
+    "id": "94612600125",
+    "name": "iPhone 18 Pro 2TB Plata",
+    "family": "iPhone",
+    "modelCode": "MJT44QL/A",
+    "ean": "0195951416113",
+    "price": 2849,
+    "status": "Novedad",
+    "details": "Pantalla 6,3\" Super Retina XDR / Chip A20 Pro / 2TB / Cámara Fusion 48MP"
+  },
+  {
+    "id": "94612301252",
+    "name": "iPhone 18 Pro Max 256GB Negro",
+    "family": "iPhone",
+    "modelCode": "MJXN4QL/A",
+    "ean": "0195951410340",
+    "price": 1589,
+    "status": "Novedad",
+    "details": "Pantalla 6,9\" Super Retina XDR / Chip A20 Pro / 256GB / Cámara Fusion 48MP"
+  },
+  {
+    "id": "94612301237",
+    "name": "iPhone 18 Pro Max 256GB Azul glacial",
+    "family": "iPhone",
+    "modelCode": "MJXR4QL/A",
+    "ean": "0195951410371",
+    "price": 1589,
+    "status": "Novedad",
+    "details": "Pantalla 6,9\" Super Retina XDR / Chip A20 Pro / 256GB / Cámara Fusion 48MP"
+  },
+  {
+    "id": "94612500515",
+    "name": "iPhone 18 Pro Max 1TB Plata",
+    "family": "iPhone",
+    "modelCode": "MJXY4QL/A",
+    "ean": "0195951410432",
+    "price": 2329,
+    "status": "Novedad",
+    "details": "Pantalla 6,9\" Super Retina XDR / Chip A20 Pro / 1TB / Cámara Fusion 48MP"
+  },
+  {
+    "id": "94612301054",
+    "name": "iPhone 17 Pro 256GB Plata",
+    "family": "iPhone",
+    "modelCode": "MG8G4QL/A",
+    "ean": "0195950627169",
+    "price": 1199,
+    "status": "Activo",
+    "details": "Pantalla 6,3\" Super Retina XDR / Chip A19 Pro / 12GB RAM / 256GB"
+  },
+  {
+    "id": "94612301161",
+    "name": "iPhone 17 256GB Verde salvia",
+    "family": "iPhone",
+    "modelCode": "MG6N4QL/A",
+    "ean": "0195950644302",
+    "price": 959,
+    "status": "Activo",
+    "details": "Pantalla 6,3\" Super Retina XDR / Chip A19 / 8GB RAM / 256GB"
+  },
+  {
+    "id": "94612301203",
+    "name": "iPhone 17e 256GB Blanco",
+    "family": "iPhone",
+    "modelCode": "MHRW4QL/A",
+    "ean": "0195951030715",
+    "price": 719,
+    "status": "Novedad",
+    "details": "Pantalla 6,1\" / Chip A19 / 256GB"
+  },
+  {
+    "id": "94612201312",
+    "name": "iPhone 16e 128GB Blanco",
+    "family": "iPhone",
+    "modelCode": "MD1R4QL/A",
+    "ean": "0195950051193",
+    "price": 699,
+    "status": "Activo",
+    "details": "Pantalla 6,1\" / Chip A18 / 8GB RAM / 128GB"
+  },
+  {
+    "id": "15217015328",
+    "name": "iPad mini 8,5\" (2026) A20 Pro Wi-Fi 128GB Blanco estrella",
+    "family": "iPad mini",
+    "modelCode": "",
+    "ean": "0195951205663",
+    "price": 599,
+    "status": "Novedad",
+    "details": "Pantalla 8,5\" / Chip A20 Pro / Wi-Fi / 128GB"
+  },
+  {
+    "id": "15217015336",
+    "name": "iPad mini 8,5\" (2026) A20 Pro Wi-Fi 128GB Medianoche",
+    "family": "iPad mini",
+    "modelCode": "",
+    "ean": "0195951205441",
+    "price": 599,
+    "status": "Novedad",
+    "details": "Pantalla 8,5\" / Chip A20 Pro / Wi-Fi / 128GB"
+  },
+  {
+    "id": "15217012218",
+    "name": "iPad mini (2024) Wi-Fi 128GB Azul",
+    "family": "iPad mini",
+    "modelCode": "MXN73TY/A",
+    "ean": "0195949729270",
+    "price": 549,
+    "status": "Activo",
+    "details": "Chip A17 Pro / Wi-Fi / 128GB"
+  },
+  {
+    "id": "15217012358",
+    "name": "iPad mini (2024) Wi-Fi + Cellular 128GB Púrpura",
+    "family": "iPad mini",
+    "modelCode": "MXPR3TY/A",
+    "ean": "0195949756047",
+    "price": 719,
+    "status": "Activo",
+    "details": "Chip A17 Pro / Wi-Fi + Cellular / 128GB"
+  },
+  {
+    "id": "15215128016",
+    "name": "MacBook Air 13 (2026) M5 16GB 512GB Plata",
+    "family": "MacBook Air",
+    "modelCode": "MDH74Y/A",
+    "ean": "0195950687569",
+    "price": 1329,
+    "status": "Novedad",
+    "details": "13 pulgadas / Chip M5 / 16GB RAM / 512GB SSD"
+  },
+  {
+    "id": "15215426709",
+    "name": "MacBook Air 13 (2026) M5 16GB 512GB Azul Cielo",
+    "family": "MacBook Air",
+    "modelCode": "MDHH4Y/A",
+    "ean": "0195950691795",
+    "price": 1329,
+    "status": "Novedad",
+    "details": "13 pulgadas / Chip M5 / 16GB RAM / 512GB SSD"
+  },
+  {
+    "id": "15215426683",
+    "name": "MacBook Air 13 (2026) M5 16GB 512GB Blanco estrella",
+    "family": "MacBook Air",
+    "modelCode": "MDHA4Y/A",
+    "ean": "0195950688979",
+    "price": 1329,
+    "status": "Novedad",
+    "details": "13 pulgadas / Chip M5 / 16GB RAM / 512GB SSD"
+  },
+  {
+    "id": "15215426691",
+    "name": "MacBook Air 13 (2026) M5 16GB 512GB Medianoche",
+    "family": "MacBook Air",
+    "modelCode": "MDHE4Y/A",
+    "ean": "0195950690385",
+    "price": 1329,
+    "status": "Novedad",
+    "details": "13 pulgadas / Chip M5 / 16GB RAM / 512GB SSD"
+  },
+  {
+    "id": "15215426733",
+    "name": "MacBook Air 13 (2026) M5 16GB 1TB Medianoche",
+    "family": "MacBook Air",
+    "modelCode": "MDHF4Y/A",
+    "ean": "0195950690859",
+    "price": 1579,
+    "status": "Novedad",
+    "details": "13 pulgadas / Chip M5 / 16GB RAM / 1TB SSD"
+  },
+  {
+    "id": "15215426808",
+    "name": "MacBook Air 13 (2026) M5 24GB 1TB Azul Cielo",
+    "family": "MacBook Air",
+    "modelCode": "",
+    "ean": "0195950692730",
+    "price": 1879,
+    "status": "Novedad",
+    "details": "13 pulgadas / Chip M5 / 24GB RAM / 1TB SSD"
+  },
+  {
+    "id": "15215426857",
+    "name": "MacBook Air 15 (2026) M5 16GB 512GB Azul Cielo",
+    "family": "MacBook Air",
+    "modelCode": "",
+    "ean": "0195950698671",
+    "price": 1629,
+    "status": "Novedad",
+    "details": "15 pulgadas / Chip M5 / 16GB RAM / 512GB SSD"
+  },
+  {
+    "id": "15215426907",
+    "name": "MacBook Air 15 (2026) M5 16GB 1TB Medianoche",
+    "family": "MacBook Air",
+    "modelCode": "",
+    "ean": "0195950697735",
+    "price": 1959,
+    "status": "Novedad",
+    "details": "15 pulgadas / Chip M5 / 16GB RAM / 1TB SSD"
+  },
+  {
+    "id": "15215127109",
+    "name": "MacBook Air 13 (2025) M4 16GB 256GB Medianoche",
+    "family": "MacBook Air",
+    "modelCode": "MW123Y/A",
+    "ean": "0195949838316",
+    "price": 1199,
+    "status": "Activo",
+    "details": "13 pulgadas / Chip M4 / 16GB RAM / 256GB SSD"
+  },
+    {
+    "id": "15215425107",
+    "name": "MacBook Pro 14 (2024) M4 16GB 512GB Negro espacial",
+    "family": "MacBook Pro",
+    "modelCode": "",
+    "ean": "0195949705069",
+    "price": 1689,
+    "status": "Activo",
+    "details": "Pantalla Liquid Retina XDR 14,2\" / Chip M4 / 16GB RAM / 512GB SSD"
+  },
+  {
+    "id": "15215426071",
+    "name": "MacBook Pro 14 (2025) M5 16GB 1TB Negro espacial",
+    "family": "MacBook Pro",
+    "modelCode": "",
+    "ean": "0195950489644",
+    "price": 1999,
+    "status": "Activo",
+    "details": "Pantalla Liquid Retina XDR 14,2\" / Chip M5 / 16GB RAM / 1TB SSD"
+  },
+  {
+    "id": "15215428267",
+    "name": "MacBook Pro 14 (2026) M6 16GB 1TB Plata",
+    "family": "MacBook Pro",
+    "modelCode": "",
+    "ean": "0195951081885",
+    "price": 2329,
+    "status": "Novedad",
+    "details": "Pantalla Liquid Retina XDR 14,2\" / Chip M6 / 16GB RAM / 1TB SSD"
+  },
+  {
+    "id": "15215428259",
+    "name": "MacBook Pro 14 (2026) M6 16GB 1TB Negro espacial",
+    "family": "MacBook Pro",
+    "modelCode": "",
+    "ean": "0195951080475",
+    "price": 2329,
+    "status": "Novedad",
+    "details": "Pantalla Liquid Retina XDR 14,2\" / Chip M6 / 16GB RAM / 1TB SSD"
+  },
+  {
+    "id": "15215126317",
+    "name": "iMac 24 (2024) M4 16GB 256GB GPU 8 Núcleos Plata",
+    "family": "iMac",
+    "modelCode": "",
+    "ean": "0195949591716",
+    "price": 1529,
+    "status": "Activo",
+    "details": "Pantalla Retina 4,5K 24\" / Chip M4 / GPU 8 núcleos / 16GB RAM / 256GB SSD"
+  },
+  {
+    "id": "15215126333",
+    "name": "iMac 24 (2024) M4 16GB 256GB GPU 10 Núcleos Plata",
+    "family": "iMac",
+    "modelCode": "",
+    "ean": "0195949594861",
+    "price": 1699,
+    "status": "Activo",
+    "details": "Pantalla Retina 4,5K 24\" / Chip M4 / GPU 10 núcleos / 16GB RAM / 256GB SSD"
+  },
+  {
+    "id": "15215126374",
+    "name": "iMac 24 (2024) M4 24GB 512GB GPU 10 Núcleos Rosa",
+    "family": "iMac",
+    "modelCode": "MD2U4Y/A",
+    "ean": "0195950076417",
+    "price": 2099,
+    "status": "Activo",
+    "details": "Pantalla Retina 4,5K 24\" / Chip M4 / GPU 10 núcleos / 24GB RAM / 512GB SSD"
+  },
+  {
+    "id": "15215129113",
+    "name": "iMac 24 (2026) M6 16GB 256GB GPU 10 Núcleos Verde",
+    "family": "iMac",
+    "modelCode": "",
+    "ean": "0195950837827",
+    "price": 1819,
+    "status": "Novedad",
+    "details": "Pantalla Retina 4,5K 24\" / Chip M6 / GPU 10 núcleos / 16GB RAM / 256GB SSD"
+  },
+  {
+    "id": "15215126572",
+    "name": "Mac mini (2024) M4 16GB 256GB Plata",
+    "family": "Mac mini",
+    "modelCode": "MU9D3YP/A",
+    "ean": "0195949911538",
+    "price": 649,
+    "status": "Activo",
+    "details": "Chip M4 / GPU 10 núcleos / 16GB RAM / 256GB SSD"
+  },
+  {
+    "id": "15215126580",
+    "name": "Mac mini (2024) M4 16GB 512GB Plata",
+    "family": "Mac mini",
+    "modelCode": "MU9E3YP/A",
+    "ean": "0195949911576",
+    "price": 949,
+    "status": "Activo",
+    "details": "Chip M4 / GPU 10 núcleos / 16GB RAM / 512GB SSD"
+  },
+  {
+    "id": "15215126598",
+    "name": "Mac mini (2024) M4 24GB 512GB Plata",
+    "family": "Mac mini",
+    "modelCode": "MCYT4YP/A",
+    "ean": "0195949943133",
+    "price": 1149,
+    "status": "Agotado",
+    "details": "Chip M4 / GPU 10 núcleos / 24GB RAM / 512GB SSD"
+  },
+  {
+    "id": "15215126606",
+    "name": "Mac mini (2024) M4 Pro 24GB 512GB Plata",
+    "family": "Mac mini",
+    "modelCode": "MCX44YP/A",
+    "ean": "0195949942723",
+    "price": 1649,
+    "status": "Activo",
+    "details": "Chip M4 Pro / GPU 16 núcleos / 24GB RAM / 512GB SSD"
+  },
+  {
+    "id": "15215124494",
+    "name": "Mac Studio (2023) M2 Max 32GB 512GB Plata",
+    "family": "Mac Studio",
+    "modelCode": "MQH73Y/A",
+    "ean": "0194253434252",
+    "price": 2199,
+    "status": "Activo",
+    "details": "Chip M2 Max / CPU 12 núcleos / GPU 30 núcleos / 32GB RAM / 512GB SSD"
+  },
+  {
+    "id": "15215127117",
+    "name": "Mac Studio (2025) M4 Max 36GB 512GB Plata",
+    "family": "Mac Studio",
+    "modelCode": "MU963YP/A",
+    "ean": "0195950269345",
+    "price": 2699,
+    "status": "Activo",
+    "details": "Chip M4 Max / 36GB RAM / 512GB SSD"
+  },
+  {
+    "id": "15215127133",
+    "name": "Mac Studio (2025) M3 Ultra 96GB 1TB Plata",
+    "family": "Mac Studio",
+    "modelCode": "",
+    "ean": "0195950269376",
+    "price": 6349,
+    "status": "Activo",
+    "details": "Chip M3 Ultra / 96GB RAM / 1TB SSD"
+  },
+  {
+    "id": "94613001015",
+    "name": "Watch Ultra 4 GPS + Cellular 49mm Titanio Natural",
+    "family": "Apple Watch",
+    "modelCode": "",
+    "ean": "",
+    "price": 899,
+    "status": "Novedad",
+    "details": "Caja 49mm Titanio Natural / GPS + Cellular / Correa Ocean Gris"
+  },
+  {
+    "id": "94613001023",
+    "name": "Watch Ultra 4 GPS + Cellular 49mm Titanio Negro",
+    "family": "Apple Watch",
+    "modelCode": "",
+    "ean": "",
+    "price": 899,
+    "status": "Novedad",
+    "details": "Caja 49mm Titanio Negro / GPS + Cellular / Correa Ocean Negro"
+  }
+]
